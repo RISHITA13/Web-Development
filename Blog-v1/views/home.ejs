@@ -1,0 +1,20 @@
+<%# includes header to the file %>
+
+<%- include('../partials/header'); -%>
+
+<h1>Home.</h1>
+<p>
+ <%= StartingContent %>
+  </p>
+ <!-- for(var i=0; i<posts.length;i++){
+ console.log(posts[i].title);  }  -->
+ <!-- forEach allows to loop through each item inside an array far easier that FOR loop. -->
+<% posts.forEach(function(post){ %>
+  <%# TO print the inputs entered in compose page in the HOME page with h1 as title %>
+  <h1><%=post.title%></h1>
+  <!-- With p including the content and truncating the content of each blog post to a 100 characters using .substring -->
+  <!-- Including a anchor tag with href directing to each seperate page for blog posts with a READMORE link. -->
+   <p><%=post.content.substring(0,100) + "..."%><a href="/posts/<%=post.title%>">Read More</a></p>
+<% }) %>
+<%# includes footer to the file %>
+<%- include('../partials/footer'); -%>

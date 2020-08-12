@@ -1,0 +1,23 @@
+<%# includes header to the file %>
+
+<%- include('../partials/header'); -%>
+<!-- This page is to enter new BLOG posts. -->
+<h1>Compose</h1>
+<!-- The action attribute specifies where to send the form-data when a form is submitted.
+The method Specifies the HTTP method to use when sending form-data. -->
+<form action="/compose" method="post">
+<div class="form-group">
+    <label>Title</label>
+    <!-- To create a input for title of blog post.The name "NewArticle" will be used in app.js -->
+    <input type="text" class="form-control" name="NewArticle">
+  <label>Post</label>
+  <!-- To create a text-area for content of blog post including the coloums and rows for size -->
+   <!-- The name postBody will be used in app.js -->
+  <textarea class="form-control" name="postBody" col="30" rows="5"></textarea>
+</div>
+<!-- A button to submit the blog post entered. -->
+<button type="submit" class="btn btn-primary">Publish</button>
+</form>
+
+<%# includes footer to the file %>
+<%- include('../partials/footer'); -%>
