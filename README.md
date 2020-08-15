@@ -66,6 +66,8 @@ Created by Dr. Angela Yu
 
 ___
 
+<img src="https://raw.githubusercontent.com/RISHITA13/Web-Development/master/front%20end%20vs%20backend.png" height="300px" align="center">
+
 ### Syllabus
 * Front-End Web Development
 * HTML 5
