@@ -15,7 +15,7 @@ Created by Dr. Angela Yu
 
 
 ## Best websites
- #### * [TINDOG](https://rishita13.github.io/Web-Development/tindog/)
+ #### + [TINDOG](https://rishita13.github.io/Web-Development/tindog/)
  #### * [To-Do List](https://5f37afb91c848951f2face89--csb-4icis.netlify.app/)
  #### * [Keeper App](https://5f379844fded43ab2c946d4c--csb-my25e.netlify.app/)
  #### * [Emojipedia](https://5f37afbefded43ed2c946f21--csb-48gkl.netlify.app/)
@@ -30,15 +30,14 @@ Created by Dr. Angela Yu
 
 ## FrontEnd
 
-* Websites using HTML & CSS 
+#### Websites using HTML & CSS 
 * [HTML-PERSONAL SITE](https://rishita13.github.io/Web-Development/HTML-PERSONAL%20SITE/)
 * [CSS-SITE](https://rishita13.github.io/Web-Development/CSS-My%20Site/)
 
-* Webistes using HTML, CSS & BOOTSTRAP
+#### Webistes using HTML, CSS & BOOTSTRAP
 * [TINDOG](https://rishita13.github.io/Web-Development/tindog/)
 
-* Websites using HTML,CSS & JS
-
+#### Websites using HTML,CSS & JS
 * [DOM](https://rishita13.github.io/Web-Development/DOM/index.html)
 * [Drum Kit](https://rishita13.github.io/Web-Development/Drum%20Kit/index.html)
 * [Dice Challenge](https://rishita13.github.io/Web-Development/Dicee%20Challenge/dicee.html)
