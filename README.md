@@ -68,6 +68,8 @@ ___
 
 <img src="https://raw.githubusercontent.com/RISHITA13/Web-Development/master/front%20end%20vs%20backend.png" height="300px" align="center">
 
+___
+
 ### Syllabus
 * Front-End Web Development
 * HTML 5
@@ -95,3 +97,26 @@ ___
 * React Hooks
 * Web Design
 * Deployment with GitHub Pages, Heroku and MongoDB Atlas
+
+___
+
+### Resources
+
+* [Atom Text Editor](https://atom.io/)
+* [Useful Atom keyboard shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
+* [HTML Cheatsheet by Stanford University](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
+* [Experiment with HTML code on codepen.io](https://codepen.io/)
+* [MDN documentation](https://developer.mozilla.org/en-US/)
+* [W3Schools documentation](https://www.w3schools.com/default.asp)
+* [See all unicode characters with a map](https://unicode-table.com)
+* [CSS Cheatsheet from Stanford University](https://web.stanford.edu/group/csp/cs21/csscheatsheet.pdf)
+* [Curated colour palettes](https://colorhunt.co/)
+* [Get Boostrap 4](https://getbootstrap.com/)
+* [Need sample text? Use a lorem ipsum generator](https://loremipsum.io/)
+* [Katacoda NodeJS Playground](https://www.katacoda.com/courses/nodejs/playground)
+* [Express Documentation](https://expressjs.com/)
+* [Heroku to deploy apps](https://dashboard.heroku.com/apps)
+* [Hacker-Typer](http://hackertyper.com/)
+* [CodeSandBox](https://codesandbox.io/dashboard/home)
+
+
